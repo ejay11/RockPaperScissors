@@ -1,0 +1,33 @@
+.container{
+    display: grid;
+    width: 100%;
+    grid-template-columns: 100%;
+    grid-template-rows: 150px 150px 150px;
+    grid-gap: 1rem;
+    justify-items: center;
+    align-items: center;
+}
+#header{
+
+}
+#selection{
+    text-align: center;
+}
+/*Button Styling */
+#options{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 100%;
+    margin: 5px;
+
+}
+#rock{
+
+}
+
+#paper{
+
+}
+#scissors{
+
+}
